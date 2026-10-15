@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" viewBox="0 0 640 424" role="img" aria-label="Terminal whoami de Camilo Campos Durán">
+  <defs>
+    <clipPath id="win">
+      <rect x="0" y="0" width="640" height="424" rx="14" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect x="0" y="0" width="640" height="424" fill="#F0FDF4" />
+    <rect x="0" y="0" width="640" height="40" fill="#DCFCE7" />
+  </g>
+  <circle cx="24" cy="20" r="6" fill="#F87171" />
+  <circle cx="46" cy="20" r="6" fill="#FBBF24" />
+  <circle cx="68" cy="20" r="6" fill="#4ADE80" />
+  <text x="320" y="25" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#15803D">camilo@endeavour: ~</text>
+
+  <g font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="28" y="82" font-size="18" fill="#16A34A">camilo@endeavour:~$ <tspan fill="#14532D">whoami</tspan></text>
+
+    <text x="28" y="124" font-size="18" fill="#16A34A">name</text>
+    <text x="180" y="124" font-size="18" fill="#14532D">Campos D. Camilo</text>
+
+    <text x="28" y="154" font-size="18" fill="#16A34A">role</text>
+    <text x="180" y="154" font-size="18" fill="#14532D">software engineering student</text>
+
+    <text x="28" y="184" font-size="18" fill="#16A34A">origin</text>
+    <text x="180" y="184" font-size="18" fill="#14532D">Buenos Aires, Argentina</text>
+
+    <text x="28" y="214" font-size="18" fill="#16A34A">studying</text>
+    <text x="180" y="214" font-size="18" fill="#14532D">software engineering (UBA)</text>
+
+    <text x="28" y="244" font-size="18" fill="#16A34A">interests</text>
+    <text x="180" y="244" font-size="18" fill="#14532D">cybersecurity · AI</text>
+
+    <text x="28" y="274" font-size="18" fill="#16A34A">hobbies</text>
+    <text x="180" y="274" font-size="18" fill="#14532D">TCG · gaming · diversity</text>
+
+    <text x="28" y="304" font-size="18" fill="#16A34A">status</text>
+    <circle cx="540" cy="298" r="5" fill="#16A34A">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite" />
+    </circle>
+    <text x="180" y="304" font-size="18" fill="#14532D">seeking my first job · learning</text>
+
+    <text x="28" y="334" font-size="18" fill="#16A34A">timezone</text>
+    <text x="180" y="334" font-size="18" fill="#14532D">UTC-3</text>
+  </g>
+
+  <text x="28" y="398" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#16A34A">camilo@endeavour:~$ <tspan fill="#16A34A">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" /></tspan></text>
+</svg>
