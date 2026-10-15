@@ -47,6 +47,15 @@
 </pre>
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=CCamposD&theme=react&hide_border=true&background=BBF7D0&ring=15803D&fire=22C55E&currStreakNum=052E16&sideNums=052E16&currStreakLabel=15803D&sideLabels=15803D&dates=15803D">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CCamposD&theme=react&hide_border=true&background=052E16&ring=4ADE80&fire=86EFAC&currStreakNum=BBF7D0&sideNums=BBF7D0&currStreakLabel=4ADE80&sideLabels=4ADE80&dates=4ADE80" alt="GitHub Streak" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
   <h2>Let's Connect!</h2>
   ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
 </div>
